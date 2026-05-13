@@ -1,4 +1,4 @@
-## Welcome to my GitHub page. I am a game developer, 3D artist and pixel artist.
+MashedPotato Gaming. Game Developer, 3D Artist and Pixel Artist.
 
 I am mostly a programmer, but also make my own 3D models, Ui elements, 2D art and pixel art for all my games. I am working a multiple projects on unity, each having completely different gameplay and mehcanics. I use blender for 3D modeling, aseprite for pixel art, and GIMP for 2D art and assets.
 
