@@ -4,7 +4,7 @@ I am mostly a programmer, but also make my own 3D models, Ui elements, 2D art an
 
 here are a few of the games I'm currently working on:
 
-##Project Fantasy Merchant Simulator:
+## Project Fantasy Merchant Simulator:
 
 This is a game where you work as a black smith, make weapons and items and sell them to adventurers. Just like with my other projects, I am the solo developer working on the game and have made everything in this game from the ground up using the unity engine.
 
