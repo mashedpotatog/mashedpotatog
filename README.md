@@ -1,4 +1,4 @@
-##MashedPotato Gaming. Game Developer, 3D Artist and Pixel Artist.
+### MashedPotato Gaming. Game Developer, 3D Artist and Pixel Artist.
 
 I am mostly a programmer, but also make my own 3D models, Ui elements, 2D art and pixel art for all my games. I am working a multiple projects on unity, each having completely different gameplay and mehcanics. I use blender for 3D modeling, aseprite for pixel art, and GIMP for 2D art and assets.
 
@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/3333ec4f-23e8-49ba-9864-c3b2c3bdbd7f
 
 
 
-##Project werewolf run:
+## Project werewolf run:
 
 It's an endless runner where you play as a werewolf, collect as many bones as you can, and avoid obstacles.
 
@@ -22,11 +22,11 @@ https://github.com/user-attachments/assets/a03ebaf4-1af1-4bcc-bc3b-55d53ce57563
 
 
 
-##Project Fantasy Rogue:
+## Project Fantasy Rogue:
 This game is a 2D pixel art rogue like game set in a fantasy world. It is still in early stages but I'm happy with how it looks and feels already
 
 https://github.com/user-attachments/assets/2e59d490-ebe1-4bba-9b2d-b5960d0970ba
 
 
-##Contact me at:
+## Contact me at:
 masdhpotatogaming@gmail.com
