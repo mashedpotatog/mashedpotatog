@@ -27,6 +27,13 @@ This game is a 2D pixel art rogue like game set in a fantasy world. It is still 
 
 https://github.com/user-attachments/assets/2e59d490-ebe1-4bba-9b2d-b5960d0970ba
 
+## Project Livals:
+Android game prototype, that consists of social interactions and puzzle/mini-game challenges in PVP scenarios
+
+https://github.com/user-attachments/assets/ba097446-dd5f-4cce-94a7-e409e111fd59
+
+
+
 
 ## Contact me at:
-masdhpotatogaming@gmail.com
+mashdpotatogaming@gmail.com
